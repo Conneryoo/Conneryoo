@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Conneryoo
-- 👀 I’m interested in ...coding, music, video game, it issues
-- 🌱 I’m currently learning ...leave the door open by bruno mars
-- 💞️ I’m looking to collaborate on ...Apple:)
+- 👀 I’m interested in ...Programming, Games, Data, etc.
+- 🌱 I’m currently learning ...Data Structure(C) and Object Orinted Programming(C++)
 - 📫 How to reach me ...with my mail! tigee0422@gmail.com
 
 <!---
