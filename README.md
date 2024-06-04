@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Conneryoo
+- 🧑🏻‍🏫 I'm learning in Software dpt. Yonsei Univ. Mirae.
 - 👀 I’m interested in ...Programming, Games, Data, etc.
 - 🌱 I’m currently learning ...Data Structure(C) and Object Orinted Programming(C++)
 - 📫 How to reach me ...with my mail! tigee0422@gmail.com
